@@ -36,6 +36,7 @@ public class Variable {
         System.out.println("ch ='A' : " + ch);
         ch = 'วั';
         System.out.println("ch ='วั' : " + ch);
+        //
         boolean isTrue = false;
         System.out.println("isTrue = false : " + isTrue);
         isTrue = true;
